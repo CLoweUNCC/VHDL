@@ -1,6 +1,6 @@
 # VHDL
 This project involved designing and testing a 16-bit single-cycle processor to run ARMv8 assembly code using VHDL. This was done using the Vivado Design Suite
 
-<img width="555" alt="Screen Shot 2023-04-25 at 11 13 30 AM" src="https://user-images.githubusercontent.com/99049949/234956506-036bb954-cd57-4a2a-a338-a964c6d386a3.png">
+<img width="809" alt="Screen Shot 2023-04-27 at 2 24 56 PM" src="https://user-images.githubusercontent.com/99049949/234957457-38b3c6d1-b059-4405-a5e1-76028835e6e9.png">
 
-Diagram from: https://stackoverflow.com/questions/54726371/mips-single-cycle-why-are-memread-and-memtoreg-separate
+Diagram from: https://www.cise.ufl.edu/~mssz/CompOrg/CDA-proc.html
